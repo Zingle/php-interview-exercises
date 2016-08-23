@@ -7,6 +7,9 @@ The design/UI of the project is not important, although any CSS or HTML included
 
 You may choose to use any JS framework or none at all. You may choose to use any CSS preprocessor and/or framework or none at all. 
 
+## Submitting
+Fork this repository and submit a link to the repo with the completed exercise.
+
 # Database Schema
 Design a MySQL or PostgresSQL schema that allows tracking the following information and relationships:
 
